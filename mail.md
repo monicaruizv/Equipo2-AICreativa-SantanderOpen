@@ -1,4 +1,4 @@
-#Client: LA HUERTA
+# Client: LA HUERTA
 
 ## Overview
 **Industry**: Food Industry  
